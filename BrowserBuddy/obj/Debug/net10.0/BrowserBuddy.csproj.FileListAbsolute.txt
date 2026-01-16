@@ -1,0 +1,15 @@
+C:\v\dotnet-project\BrowserBuddy\bin\Debug\net10.0\BrowserBuddy.exe
+C:\v\dotnet-project\BrowserBuddy\bin\Debug\net10.0\BrowserBuddy.deps.json
+C:\v\dotnet-project\BrowserBuddy\bin\Debug\net10.0\BrowserBuddy.runtimeconfig.json
+C:\v\dotnet-project\BrowserBuddy\bin\Debug\net10.0\BrowserBuddy.dll
+C:\v\dotnet-project\BrowserBuddy\bin\Debug\net10.0\BrowserBuddy.pdb
+C:\v\dotnet-project\BrowserBuddy\obj\Debug\net10.0\BrowserBuddy.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\dotnet-project\BrowserBuddy\obj\Debug\net10.0\BrowserBuddy.AssemblyInfoInputs.cache
+C:\v\dotnet-project\BrowserBuddy\obj\Debug\net10.0\BrowserBuddy.AssemblyInfo.cs
+C:\v\dotnet-project\BrowserBuddy\obj\Debug\net10.0\BrowserBuddy.csproj.CoreCompileInputs.cache
+C:\v\dotnet-project\BrowserBuddy\obj\Debug\net10.0\BrowserBuddy.sourcelink.json
+C:\v\dotnet-project\BrowserBuddy\obj\Debug\net10.0\BrowserBuddy.dll
+C:\v\dotnet-project\BrowserBuddy\obj\Debug\net10.0\refint\BrowserBuddy.dll
+C:\v\dotnet-project\BrowserBuddy\obj\Debug\net10.0\BrowserBuddy.pdb
+C:\v\dotnet-project\BrowserBuddy\obj\Debug\net10.0\BrowserBuddy.genruntimeconfig.cache
+C:\v\dotnet-project\BrowserBuddy\obj\Debug\net10.0\ref\BrowserBuddy.dll

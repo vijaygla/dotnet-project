@@ -1,6 +1,3 @@
-using System;
-using System.Reflection.Metadata;
-
 namespace BrowserBuddy
 {
     public class TabHistory
@@ -32,6 +29,19 @@ namespace BrowserBuddy
             else
             {
                 Console.WriteLine("No previous page available");
+            }
+        }
+
+        // method to naviagte forward
+        public void NavigateForward()
+        {
+            if (current != null && current.Next != null)
+            {
+                current = current.Next;
+            }
+            else
+            {
+                Console.WriteLine("No forward page available.");
             }
         }
 

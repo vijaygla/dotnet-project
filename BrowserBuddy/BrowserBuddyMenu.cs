@@ -1,6 +1,3 @@
-using System;
-using System.ComponentModel;
-
 namespace BrowserBuddy
 {
     internal class BrowserBuddyMenu
@@ -25,7 +22,7 @@ namespace BrowserBuddy
                 Console.WriteLine("4. Forward Tab");
                 Console.WriteLine("5. Restore closed Tab");
                 Console.WriteLine("6. Show current Tab");
-                Console.WriteLine("6. Exit applicaion");
+                Console.WriteLine("7. Exit applicaion");
 
                 Console.Write("Enter your choice: ");
                 int choice;
