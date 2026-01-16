@@ -12,3 +12,4 @@ C:\v\dotnet-project\MyApp\obj\Debug\net10.0\refint\MyApp.dll
 C:\v\dotnet-project\MyApp\obj\Debug\net10.0\MyApp.pdb
 C:\v\dotnet-project\MyApp\obj\Debug\net10.0\MyApp.genruntimeconfig.cache
 C:\v\dotnet-project\MyApp\obj\Debug\net10.0\ref\MyApp.dll
+C:\v\dotnet-project\MyApp\obj\Debug\net10.0\MyApp.sourcelink.json
