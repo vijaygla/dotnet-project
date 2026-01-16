@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../AddressBookSystem/AddressBookSystem.csproj" />
+  <Project Path="../BookBuddy/BookBuddy.csproj" />
+  <Project Path="../BrowserBuddy/BrowserBuddy.csproj" />
+  <Project Path="../ConsoleApp/ConsoleApp.csproj" />
+  <Project Path="MoviesScheduleManager.csproj" />
+</Solution>

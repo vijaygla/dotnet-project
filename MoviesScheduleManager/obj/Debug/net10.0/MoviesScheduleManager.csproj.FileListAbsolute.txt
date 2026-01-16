@@ -1,0 +1,14 @@
+C:\v\dotnet-project\MoviesScheduleManager\bin\Debug\net10.0\MoviesScheduleManager.exe
+C:\v\dotnet-project\MoviesScheduleManager\bin\Debug\net10.0\MoviesScheduleManager.deps.json
+C:\v\dotnet-project\MoviesScheduleManager\bin\Debug\net10.0\MoviesScheduleManager.runtimeconfig.json
+C:\v\dotnet-project\MoviesScheduleManager\bin\Debug\net10.0\MoviesScheduleManager.dll
+C:\v\dotnet-project\MoviesScheduleManager\bin\Debug\net10.0\MoviesScheduleManager.pdb
+C:\v\dotnet-project\MoviesScheduleManager\obj\Debug\net10.0\MoviesScheduleManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\dotnet-project\MoviesScheduleManager\obj\Debug\net10.0\MoviesScheduleManager.AssemblyInfoInputs.cache
+C:\v\dotnet-project\MoviesScheduleManager\obj\Debug\net10.0\MoviesScheduleManager.AssemblyInfo.cs
+C:\v\dotnet-project\MoviesScheduleManager\obj\Debug\net10.0\MoviesScheduleManager.csproj.CoreCompileInputs.cache
+C:\v\dotnet-project\MoviesScheduleManager\obj\Debug\net10.0\MoviesScheduleManager.dll
+C:\v\dotnet-project\MoviesScheduleManager\obj\Debug\net10.0\refint\MoviesScheduleManager.dll
+C:\v\dotnet-project\MoviesScheduleManager\obj\Debug\net10.0\MoviesScheduleManager.pdb
+C:\v\dotnet-project\MoviesScheduleManager\obj\Debug\net10.0\MoviesScheduleManager.genruntimeconfig.cache
+C:\v\dotnet-project\MoviesScheduleManager\obj\Debug\net10.0\ref\MoviesScheduleManager.dll

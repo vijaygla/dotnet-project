@@ -1,0 +1,14 @@
+C:\v\dotnet-project\BookBuddy\bin\Debug\net10.0\BookBuddy.exe
+C:\v\dotnet-project\BookBuddy\bin\Debug\net10.0\BookBuddy.deps.json
+C:\v\dotnet-project\BookBuddy\bin\Debug\net10.0\BookBuddy.runtimeconfig.json
+C:\v\dotnet-project\BookBuddy\bin\Debug\net10.0\BookBuddy.dll
+C:\v\dotnet-project\BookBuddy\bin\Debug\net10.0\BookBuddy.pdb
+C:\v\dotnet-project\BookBuddy\obj\Debug\net10.0\BookBuddy.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\dotnet-project\BookBuddy\obj\Debug\net10.0\BookBuddy.AssemblyInfoInputs.cache
+C:\v\dotnet-project\BookBuddy\obj\Debug\net10.0\BookBuddy.AssemblyInfo.cs
+C:\v\dotnet-project\BookBuddy\obj\Debug\net10.0\BookBuddy.csproj.CoreCompileInputs.cache
+C:\v\dotnet-project\BookBuddy\obj\Debug\net10.0\BookBuddy.dll
+C:\v\dotnet-project\BookBuddy\obj\Debug\net10.0\refint\BookBuddy.dll
+C:\v\dotnet-project\BookBuddy\obj\Debug\net10.0\BookBuddy.pdb
+C:\v\dotnet-project\BookBuddy\obj\Debug\net10.0\BookBuddy.genruntimeconfig.cache
+C:\v\dotnet-project\BookBuddy\obj\Debug\net10.0\ref\BookBuddy.dll

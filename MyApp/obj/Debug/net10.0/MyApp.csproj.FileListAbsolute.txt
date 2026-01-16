@@ -1,0 +1,14 @@
+C:\v\dotnet-project\MyApp\bin\Debug\net10.0\MyApp.exe
+C:\v\dotnet-project\MyApp\bin\Debug\net10.0\MyApp.deps.json
+C:\v\dotnet-project\MyApp\bin\Debug\net10.0\MyApp.runtimeconfig.json
+C:\v\dotnet-project\MyApp\bin\Debug\net10.0\MyApp.dll
+C:\v\dotnet-project\MyApp\bin\Debug\net10.0\MyApp.pdb
+C:\v\dotnet-project\MyApp\obj\Debug\net10.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\dotnet-project\MyApp\obj\Debug\net10.0\MyApp.AssemblyInfoInputs.cache
+C:\v\dotnet-project\MyApp\obj\Debug\net10.0\MyApp.AssemblyInfo.cs
+C:\v\dotnet-project\MyApp\obj\Debug\net10.0\MyApp.csproj.CoreCompileInputs.cache
+C:\v\dotnet-project\MyApp\obj\Debug\net10.0\MyApp.dll
+C:\v\dotnet-project\MyApp\obj\Debug\net10.0\refint\MyApp.dll
+C:\v\dotnet-project\MyApp\obj\Debug\net10.0\MyApp.pdb
+C:\v\dotnet-project\MyApp\obj\Debug\net10.0\MyApp.genruntimeconfig.cache
+C:\v\dotnet-project\MyApp\obj\Debug\net10.0\ref\MyApp.dll
