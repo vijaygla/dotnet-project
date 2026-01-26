@@ -1,0 +1,15 @@
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EduResultsRankGenerator\bin\Debug\net10.0\EduResultsRankGenerator.exe
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EduResultsRankGenerator\bin\Debug\net10.0\EduResultsRankGenerator.deps.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EduResultsRankGenerator\bin\Debug\net10.0\EduResultsRankGenerator.runtimeconfig.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EduResultsRankGenerator\bin\Debug\net10.0\EduResultsRankGenerator.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EduResultsRankGenerator\bin\Debug\net10.0\EduResultsRankGenerator.pdb
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EduResultsRankGenerator\obj\Debug\net10.0\EduResultsRankGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EduResultsRankGenerator\obj\Debug\net10.0\EduResultsRankGenerator.AssemblyInfoInputs.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EduResultsRankGenerator\obj\Debug\net10.0\EduResultsRankGenerator.AssemblyInfo.cs
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EduResultsRankGenerator\obj\Debug\net10.0\EduResultsRankGenerator.csproj.CoreCompileInputs.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EduResultsRankGenerator\obj\Debug\net10.0\EduResultsRankGenerator.sourcelink.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EduResultsRankGenerator\obj\Debug\net10.0\EduResultsRankGenerator.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EduResultsRankGenerator\obj\Debug\net10.0\refint\EduResultsRankGenerator.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EduResultsRankGenerator\obj\Debug\net10.0\EduResultsRankGenerator.pdb
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EduResultsRankGenerator\obj\Debug\net10.0\EduResultsRankGenerator.genruntimeconfig.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\EduResultsRankGenerator\obj\Debug\net10.0\ref\EduResultsRankGenerator.dll

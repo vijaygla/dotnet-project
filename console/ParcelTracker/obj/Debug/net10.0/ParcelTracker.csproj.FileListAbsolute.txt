@@ -1,0 +1,15 @@
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\ParcelTracker\bin\Debug\net10.0\ParcelTracker.exe
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\ParcelTracker\bin\Debug\net10.0\ParcelTracker.deps.json
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\ParcelTracker\bin\Debug\net10.0\ParcelTracker.runtimeconfig.json
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\ParcelTracker\bin\Debug\net10.0\ParcelTracker.dll
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\ParcelTracker\bin\Debug\net10.0\ParcelTracker.pdb
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\ParcelTracker\obj\Debug\net10.0\ParcelTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\ParcelTracker\obj\Debug\net10.0\ParcelTracker.AssemblyInfoInputs.cache
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\ParcelTracker\obj\Debug\net10.0\ParcelTracker.AssemblyInfo.cs
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\ParcelTracker\obj\Debug\net10.0\ParcelTracker.csproj.CoreCompileInputs.cache
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\ParcelTracker\obj\Debug\net10.0\ParcelTracker.sourcelink.json
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\ParcelTracker\obj\Debug\net10.0\ParcelTracker.dll
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\ParcelTracker\obj\Debug\net10.0\refint\ParcelTracker.dll
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\ParcelTracker\obj\Debug\net10.0\ParcelTracker.pdb
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\ParcelTracker\obj\Debug\net10.0\ParcelTracker.genruntimeconfig.cache
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\ParcelTracker\obj\Debug\net10.0\ref\ParcelTracker.dll

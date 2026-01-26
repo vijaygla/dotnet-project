@@ -1,0 +1,15 @@
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\AdharSortingSystem\obj\Debug\net10.0\AdharSortingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\AdharSortingSystem\obj\Debug\net10.0\AdharSortingSystem.AssemblyInfoInputs.cache
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\AdharSortingSystem\obj\Debug\net10.0\AdharSortingSystem.AssemblyInfo.cs
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\AdharSortingSystem\obj\Debug\net10.0\AdharSortingSystem.csproj.CoreCompileInputs.cache
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\AdharSortingSystem\obj\Debug\net10.0\AdharSortingSystem.sourcelink.json
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\AdharSortingSystem\bin\Debug\net10.0\AdharSortingSystem.exe
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\AdharSortingSystem\bin\Debug\net10.0\AdharSortingSystem.deps.json
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\AdharSortingSystem\bin\Debug\net10.0\AdharSortingSystem.runtimeconfig.json
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\AdharSortingSystem\bin\Debug\net10.0\AdharSortingSystem.dll
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\AdharSortingSystem\bin\Debug\net10.0\AdharSortingSystem.pdb
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\AdharSortingSystem\obj\Debug\net10.0\AdharSortingSystem.dll
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\AdharSortingSystem\obj\Debug\net10.0\refint\AdharSortingSystem.dll
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\AdharSortingSystem\obj\Debug\net10.0\AdharSortingSystem.pdb
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\AdharSortingSystem\obj\Debug\net10.0\AdharSortingSystem.genruntimeconfig.cache
+C:\v\BridgeLabz-Training\dsa-charp-practice\scenario-based\AdharSortingSystem\obj\Debug\net10.0\ref\AdharSortingSystem.dll

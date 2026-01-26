@@ -1,0 +1,15 @@
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AmbulanceRoute\bin\Debug\net10.0\AmbulanceRoute.exe
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AmbulanceRoute\bin\Debug\net10.0\AmbulanceRoute.deps.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AmbulanceRoute\bin\Debug\net10.0\AmbulanceRoute.runtimeconfig.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AmbulanceRoute\bin\Debug\net10.0\AmbulanceRoute.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AmbulanceRoute\bin\Debug\net10.0\AmbulanceRoute.pdb
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AmbulanceRoute\obj\Debug\net10.0\AmbulanceRoute.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AmbulanceRoute\obj\Debug\net10.0\AmbulanceRoute.AssemblyInfoInputs.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AmbulanceRoute\obj\Debug\net10.0\AmbulanceRoute.AssemblyInfo.cs
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AmbulanceRoute\obj\Debug\net10.0\AmbulanceRoute.csproj.CoreCompileInputs.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AmbulanceRoute\obj\Debug\net10.0\AmbulanceRoute.sourcelink.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AmbulanceRoute\obj\Debug\net10.0\AmbulanceRoute.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AmbulanceRoute\obj\Debug\net10.0\refint\AmbulanceRoute.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AmbulanceRoute\obj\Debug\net10.0\AmbulanceRoute.pdb
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AmbulanceRoute\obj\Debug\net10.0\AmbulanceRoute.genruntimeconfig.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\AmbulanceRoute\obj\Debug\net10.0\ref\AmbulanceRoute.dll

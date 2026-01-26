@@ -1,0 +1,15 @@
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\SmartCheckout\bin\Debug\net10.0\SmartCheckout.exe
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\SmartCheckout\bin\Debug\net10.0\SmartCheckout.deps.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\SmartCheckout\bin\Debug\net10.0\SmartCheckout.runtimeconfig.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\SmartCheckout\bin\Debug\net10.0\SmartCheckout.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\SmartCheckout\bin\Debug\net10.0\SmartCheckout.pdb
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\SmartCheckout\obj\Debug\net10.0\SmartCheckout.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\SmartCheckout\obj\Debug\net10.0\SmartCheckout.AssemblyInfoInputs.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\SmartCheckout\obj\Debug\net10.0\SmartCheckout.AssemblyInfo.cs
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\SmartCheckout\obj\Debug\net10.0\SmartCheckout.csproj.CoreCompileInputs.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\SmartCheckout\obj\Debug\net10.0\SmartCheckout.sourcelink.json
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\SmartCheckout\obj\Debug\net10.0\SmartCheckout.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\SmartCheckout\obj\Debug\net10.0\refint\SmartCheckout.dll
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\SmartCheckout\obj\Debug\net10.0\SmartCheckout.pdb
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\SmartCheckout\obj\Debug\net10.0\SmartCheckout.genruntimeconfig.cache
+C:\v\BridgeLabz-Training\collection-csharp-practice\scenario-based\SmartCheckout\obj\Debug\net10.0\ref\SmartCheckout.dll

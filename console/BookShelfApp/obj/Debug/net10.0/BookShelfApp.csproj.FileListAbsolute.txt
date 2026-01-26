@@ -1,0 +1,15 @@
+C:\v\dotnet-project\BookShelfApp\bin\Debug\net10.0\BookShelfApp.exe
+C:\v\dotnet-project\BookShelfApp\bin\Debug\net10.0\BookShelfApp.deps.json
+C:\v\dotnet-project\BookShelfApp\bin\Debug\net10.0\BookShelfApp.runtimeconfig.json
+C:\v\dotnet-project\BookShelfApp\bin\Debug\net10.0\BookShelfApp.dll
+C:\v\dotnet-project\BookShelfApp\bin\Debug\net10.0\BookShelfApp.pdb
+C:\v\dotnet-project\BookShelfApp\obj\Debug\net10.0\BookShelfApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\dotnet-project\BookShelfApp\obj\Debug\net10.0\BookShelfApp.AssemblyInfoInputs.cache
+C:\v\dotnet-project\BookShelfApp\obj\Debug\net10.0\BookShelfApp.AssemblyInfo.cs
+C:\v\dotnet-project\BookShelfApp\obj\Debug\net10.0\BookShelfApp.csproj.CoreCompileInputs.cache
+C:\v\dotnet-project\BookShelfApp\obj\Debug\net10.0\BookShelfApp.sourcelink.json
+C:\v\dotnet-project\BookShelfApp\obj\Debug\net10.0\BookShelfApp.dll
+C:\v\dotnet-project\BookShelfApp\obj\Debug\net10.0\refint\BookShelfApp.dll
+C:\v\dotnet-project\BookShelfApp\obj\Debug\net10.0\BookShelfApp.pdb
+C:\v\dotnet-project\BookShelfApp\obj\Debug\net10.0\BookShelfApp.genruntimeconfig.cache
+C:\v\dotnet-project\BookShelfApp\obj\Debug\net10.0\ref\BookShelfApp.dll
