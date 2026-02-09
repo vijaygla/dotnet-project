@@ -1,0 +1,12 @@
+C:\v\dotnet-project\SmartCityManagementSystem\SCMS.Domain\bin\Debug\net10.0\SCMS.Domain.deps.json
+C:\v\dotnet-project\SmartCityManagementSystem\SCMS.Domain\bin\Debug\net10.0\SCMS.Domain.dll
+C:\v\dotnet-project\SmartCityManagementSystem\SCMS.Domain\bin\Debug\net10.0\SCMS.Domain.pdb
+C:\v\dotnet-project\SmartCityManagementSystem\SCMS.Domain\obj\Debug\net10.0\SCMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\dotnet-project\SmartCityManagementSystem\SCMS.Domain\obj\Debug\net10.0\SCMS.Domain.AssemblyInfoInputs.cache
+C:\v\dotnet-project\SmartCityManagementSystem\SCMS.Domain\obj\Debug\net10.0\SCMS.Domain.AssemblyInfo.cs
+C:\v\dotnet-project\SmartCityManagementSystem\SCMS.Domain\obj\Debug\net10.0\SCMS.Domain.csproj.CoreCompileInputs.cache
+C:\v\dotnet-project\SmartCityManagementSystem\SCMS.Domain\obj\Debug\net10.0\SCMS.Domain.sourcelink.json
+C:\v\dotnet-project\SmartCityManagementSystem\SCMS.Domain\obj\Debug\net10.0\SCMS.Domain.dll
+C:\v\dotnet-project\SmartCityManagementSystem\SCMS.Domain\obj\Debug\net10.0\refint\SCMS.Domain.dll
+C:\v\dotnet-project\SmartCityManagementSystem\SCMS.Domain\obj\Debug\net10.0\SCMS.Domain.pdb
+C:\v\dotnet-project\SmartCityManagementSystem\SCMS.Domain\obj\Debug\net10.0\ref\SCMS.Domain.dll

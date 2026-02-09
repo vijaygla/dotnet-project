@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParcelTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13070c6b26214ff88144f59709de866ae4bf39fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2773c430a943a752564366ba5c3e347d5a76937")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParcelTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParcelTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

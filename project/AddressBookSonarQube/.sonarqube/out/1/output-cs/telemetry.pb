@@ -1,0 +1,1 @@
+|ReC:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Tests\AddressBookSonarQube.Tests.csproj¢net10.0òCSharp14

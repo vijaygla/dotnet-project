@@ -1,0 +1,12 @@
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.Models\bin\Debug\net10.0\HealthClinicApp.Models.deps.json
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.Models\bin\Debug\net10.0\HealthClinicApp.Models.dll
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.Models\bin\Debug\net10.0\HealthClinicApp.Models.pdb
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.Models\obj\Debug\net10.0\HealthClinicApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.Models\obj\Debug\net10.0\HealthClinicApp.Models.AssemblyInfoInputs.cache
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.Models\obj\Debug\net10.0\HealthClinicApp.Models.AssemblyInfo.cs
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.Models\obj\Debug\net10.0\HealthClinicApp.Models.csproj.CoreCompileInputs.cache
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.Models\obj\Debug\net10.0\HealthClinicApp.Models.sourcelink.json
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.Models\obj\Debug\net10.0\HealthClinicApp.Models.dll
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.Models\obj\Debug\net10.0\refint\HealthClinicApp.Models.dll
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.Models\obj\Debug\net10.0\HealthClinicApp.Models.pdb
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.Models\obj\Debug\net10.0\ref\HealthClinicApp.Models.dll

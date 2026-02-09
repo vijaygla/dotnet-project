@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SCMS.Application/SCMS.Application.csproj" />
+  <Project Path="SCMS.Common/SCMS.Common.csproj" />
+  <Project Path="SCMS.ConsoleApp/SCMS.ConsoleApp.csproj" />
+  <Project Path="SCMS.Domain/SCMS.Domain.csproj" />
+  <Project Path="SCMS.Infrastructure/SCMS.Infrastructure.csproj" />
+</Solution>

@@ -1,0 +1,6 @@
+﻿C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\Exceptions\AddressBookException.cs
+C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\Interfaces\IAddressBookService.cs
+C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\Models\AddressBook.cs
+C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\Models\Contact.cs
+C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\Services\AddressBookService.cs
+C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\Utilities\FileManager.cs

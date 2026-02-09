@@ -1,0 +1,176 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "11.0"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1770555314000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "AddressBookSolution"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "C:\\v\\dotnet-project\\AddressBookSonarQube\\.sonarqube\\out\\.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "C:\\v\\dotnet-project\\AddressBookSonarQube"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "C:\\v\\dotnet-project\\AddressBookSonarQube"
+    },
+    {
+      "key": "sonar.sources",
+      "value": "C:\\v\\dotnet-project\\AddressBookSonarQube\\dotnet-tools.json"
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "CF3C6EB8-D7BF-8B88-AF93-895C55768ED8,99719C3F-E84C-DF92-BB65-A40D976697BF,D3BA7802-1391-8BD8-67CF-AC47B352F02C"
+    },
+    {
+      "key": "CF3C6EB8-D7BF-8B88-AF93-895C55768ED8.sonar.projectKey",
+      "value": "AddressBookSolution:CF3C6EB8-D7BF-8B88-AF93-895C55768ED8"
+    },
+    {
+      "key": "CF3C6EB8-D7BF-8B88-AF93-895C55768ED8.sonar.projectName",
+      "value": "AddressBookSonarQube.Core"
+    },
+    {
+      "key": "CF3C6EB8-D7BF-8B88-AF93-895C55768ED8.sonar.projectBaseDir",
+      "value": "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Core"
+    },
+    {
+      "key": "CF3C6EB8-D7BF-8B88-AF93-895C55768ED8.sonar.working.directory",
+      "value": "C:\\v\\dotnet-project\\AddressBookSonarQube\\.sonarqube\\out\\.sonar\\mod0"
+    },
+    {
+      "key": "CF3C6EB8-D7BF-8B88-AF93-895C55768ED8.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "CF3C6EB8-D7BF-8B88-AF93-895C55768ED8.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "CF3C6EB8-D7BF-8B88-AF93-895C55768ED8.sonar.sources",
+      "value": "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Core\\Exceptions\\AddressBookException.cs,C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Core\\Interfaces\\IAddressBookService.cs,C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Core\\Models\\AddressBook.cs,C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Core\\Models\\Contact.cs,C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Core\\Services\\AddressBookService.cs,C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Core\\Utilities\\FileManager.cs,C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Core\\obj\\AddressBookSonarQube.Core.csproj.nuget.dgspec.json,C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Core\\obj\\project.assets.json,C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Core\\bin\\Debug\\net10.0\\AddressBookSonarQube.Core.deps.json,C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Core\\obj\\Debug\\net10.0\\AddressBookSonarQube.Core.sourcelink.json"
+    },
+    {
+      "key": "CF3C6EB8-D7BF-8B88-AF93-895C55768ED8.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\v\\dotnet-project\\AddressBookSonarQube\\.sonarqube\\out\\0"
+    },
+    {
+      "key": "CF3C6EB8-D7BF-8B88-AF93-895C55768ED8.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\v\\dotnet-project\\AddressBookSonarQube\\.sonarqube\\out\\0\\Issues.json"
+    },
+    {
+      "key": "CF3C6EB8-D7BF-8B88-AF93-895C55768ED8.sonar.cs.scanner.telemetry",
+      "value": "C:\\v\\dotnet-project\\AddressBookSonarQube\\.sonarqube\\out\\0\\Telemetry.json"
+    },
+    {
+      "key": "99719C3F-E84C-DF92-BB65-A40D976697BF.sonar.projectKey",
+      "value": "AddressBookSolution:99719C3F-E84C-DF92-BB65-A40D976697BF"
+    },
+    {
+      "key": "99719C3F-E84C-DF92-BB65-A40D976697BF.sonar.projectName",
+      "value": "AddressBookSonarQube.Tests"
+    },
+    {
+      "key": "99719C3F-E84C-DF92-BB65-A40D976697BF.sonar.projectBaseDir",
+      "value": "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Tests"
+    },
+    {
+      "key": "99719C3F-E84C-DF92-BB65-A40D976697BF.sonar.working.directory",
+      "value": "C:\\v\\dotnet-project\\AddressBookSonarQube\\.sonarqube\\out\\.sonar\\mod1"
+    },
+    {
+      "key": "99719C3F-E84C-DF92-BB65-A40D976697BF.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "99719C3F-E84C-DF92-BB65-A40D976697BF.sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "99719C3F-E84C-DF92-BB65-A40D976697BF.sonar.tests",
+      "value": "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Tests\\obj\\AddressBookSonarQube.Tests.csproj.nuget.dgspec.json,C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Tests\\obj\\project.assets.json,C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Tests\\bin\\Debug\\net10.0\\AddressBookSonarQube.Tests.deps.json,C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Tests\\bin\\Debug\\net10.0\\AddressBookSonarQube.Tests.runtimeconfig.json,C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Tests\\obj\\Debug\\net10.0\\AddressBookSonarQube.Tests.sourcelink.json,C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Tests\\AddressBookServiceTests.cs"
+    },
+    {
+      "key": "99719C3F-E84C-DF92-BB65-A40D976697BF.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\v\\dotnet-project\\AddressBookSonarQube\\.sonarqube\\out\\1"
+    },
+    {
+      "key": "99719C3F-E84C-DF92-BB65-A40D976697BF.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\v\\dotnet-project\\AddressBookSonarQube\\.sonarqube\\out\\1\\Issues.json"
+    },
+    {
+      "key": "99719C3F-E84C-DF92-BB65-A40D976697BF.sonar.cs.scanner.telemetry",
+      "value": "C:\\v\\dotnet-project\\AddressBookSonarQube\\.sonarqube\\out\\1\\Telemetry.json"
+    },
+    {
+      "key": "D3BA7802-1391-8BD8-67CF-AC47B352F02C.sonar.projectKey",
+      "value": "AddressBookSolution:D3BA7802-1391-8BD8-67CF-AC47B352F02C"
+    },
+    {
+      "key": "D3BA7802-1391-8BD8-67CF-AC47B352F02C.sonar.projectName",
+      "value": "AddressBookSonarQube.ConsoleApp"
+    },
+    {
+      "key": "D3BA7802-1391-8BD8-67CF-AC47B352F02C.sonar.projectBaseDir",
+      "value": "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.ConsoleApp"
+    },
+    {
+      "key": "D3BA7802-1391-8BD8-67CF-AC47B352F02C.sonar.working.directory",
+      "value": "C:\\v\\dotnet-project\\AddressBookSonarQube\\.sonarqube\\out\\.sonar\\mod2"
+    },
+    {
+      "key": "D3BA7802-1391-8BD8-67CF-AC47B352F02C.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "D3BA7802-1391-8BD8-67CF-AC47B352F02C.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "D3BA7802-1391-8BD8-67CF-AC47B352F02C.sonar.sources",
+      "value": "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.ConsoleApp\\obj\\AddressBookSonarQube.ConsoleApp.csproj.nuget.dgspec.json,C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.ConsoleApp\\obj\\project.assets.json,C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.ConsoleApp\\bin\\Debug\\net10.0\\AddressBookSonarQube.ConsoleApp.deps.json,C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.ConsoleApp\\bin\\Debug\\net10.0\\AddressBookSonarQube.ConsoleApp.runtimeconfig.json,C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.ConsoleApp\\obj\\Debug\\net10.0\\AddressBookSonarQube.ConsoleApp.sourcelink.json,C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.ConsoleApp\\Program.cs"
+    },
+    {
+      "key": "D3BA7802-1391-8BD8-67CF-AC47B352F02C.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\v\\dotnet-project\\AddressBookSonarQube\\.sonarqube\\out\\2"
+    },
+    {
+      "key": "D3BA7802-1391-8BD8-67CF-AC47B352F02C.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\v\\dotnet-project\\AddressBookSonarQube\\.sonarqube\\out\\2\\Issues.json"
+    },
+    {
+      "key": "D3BA7802-1391-8BD8-67CF-AC47B352F02C.sonar.cs.scanner.telemetry",
+      "value": "C:\\v\\dotnet-project\\AddressBookSonarQube\\.sonarqube\\out\\2\\Telemetry.json"
+    },
+    {
+      "key": "sonar.token",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "http://localhost:9000"
+    },
+    {
+      "key": "sonar.visualstudio.enable",
+      "value": "false"
+    }
+  ]
+}

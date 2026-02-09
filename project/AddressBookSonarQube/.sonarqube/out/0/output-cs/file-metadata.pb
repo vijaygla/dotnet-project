@@ -1,0 +1,10 @@
+â
+~C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\obj\Debug\net10.0\AddressBookSonarQube.Core.AssemblyInfo.csutf-8ê
+ÑC:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\obj\Debug\net10.0\.NETCoreApp,Version=v10.0.AssemblyAttributes.csutf-8å
+ÄC:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\obj\Debug\net10.0\AddressBookSonarQube.Core.GlobalUsings.g.csutf-8d
+[C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\Utilities\FileManager.csutf-8j
+aC:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\Services\AddressBookService.csutf-8]
+TC:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\Models\Contact.csutf-8a
+XC:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\Models\AddressBook.csutf-8m
+dC:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\Interfaces\IAddressBookService.csutf-8n
+eC:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\Exceptions\AddressBookException.csutf-8

@@ -1,0 +1,1 @@
+†RoC:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.ConsoleApp\AddressBookSonarQube.ConsoleApp.csproj¢net10.0òCSharp14

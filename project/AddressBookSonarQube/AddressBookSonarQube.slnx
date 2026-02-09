@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AddressBookSonarQube.ConsoleApp/AddressBookSonarQube.ConsoleApp.csproj" />
+  <Project Path="AddressBookSonarQube.Core/AddressBookSonarQube.Core.csproj" />
+  <Project Path="AddressBookSonarQube.Tests/AddressBookSonarQube.Tests.csproj" />
+</Solution>

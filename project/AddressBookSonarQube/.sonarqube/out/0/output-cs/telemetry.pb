@@ -1,0 +1,1 @@
+zRcC:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\AddressBookSonarQube.Core.csproj¢net10.0òCSharp14

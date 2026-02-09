@@ -1,0 +1,15 @@
+C:\v\dotnet-project\meeting\BikeRentalApp\bin\Debug\net10.0\BikeRentalApp.exe
+C:\v\dotnet-project\meeting\BikeRentalApp\bin\Debug\net10.0\BikeRentalApp.deps.json
+C:\v\dotnet-project\meeting\BikeRentalApp\bin\Debug\net10.0\BikeRentalApp.runtimeconfig.json
+C:\v\dotnet-project\meeting\BikeRentalApp\bin\Debug\net10.0\BikeRentalApp.dll
+C:\v\dotnet-project\meeting\BikeRentalApp\bin\Debug\net10.0\BikeRentalApp.pdb
+C:\v\dotnet-project\meeting\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\dotnet-project\meeting\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.AssemblyInfoInputs.cache
+C:\v\dotnet-project\meeting\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.AssemblyInfo.cs
+C:\v\dotnet-project\meeting\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.csproj.CoreCompileInputs.cache
+C:\v\dotnet-project\meeting\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.sourcelink.json
+C:\v\dotnet-project\meeting\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.dll
+C:\v\dotnet-project\meeting\BikeRentalApp\obj\Debug\net10.0\refint\BikeRentalApp.dll
+C:\v\dotnet-project\meeting\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.pdb
+C:\v\dotnet-project\meeting\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.genruntimeconfig.cache
+C:\v\dotnet-project\meeting\BikeRentalApp\obj\Debug\net10.0\ref\BikeRentalApp.dll

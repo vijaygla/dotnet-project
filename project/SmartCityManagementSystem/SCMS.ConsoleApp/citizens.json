@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "TC-2026-00001",
+    "Name": "aditi",
+    "Age": 20,
+    "Income": 20000,
+    "ResidencyYears": 2020,
+    "EligibilityScore": 60,
+    "RegistrationDate": "2026-02-09T12:37:55.1178594+05:30"
+  },
+  {
+    "Id": "TC-2026-00002",
+    "Name": "sagar",
+    "Age": 20,
+    "Income": 3949,
+    "ResidencyYears": 2027,
+    "EligibilityScore": 60,
+    "RegistrationDate": "2026-02-09T12:38:19.9701895+05:30"
+  }
+]

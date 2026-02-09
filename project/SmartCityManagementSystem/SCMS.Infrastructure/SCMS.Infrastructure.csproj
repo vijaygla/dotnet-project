@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>SCMS.Infrastructure</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SCMS.Domain\SCMS.Domain.csproj" />
+    <ProjectReference Include="..\SCMS.Common\SCMS.Common.csproj" />
+  </ItemGroup>
+
+</Project>

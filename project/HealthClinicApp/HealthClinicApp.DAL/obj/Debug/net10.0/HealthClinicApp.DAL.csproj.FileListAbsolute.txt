@@ -1,0 +1,16 @@
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.DAL\obj\Debug\net10.0\HealthClinicApp.DAL.csproj.AssemblyReference.cache
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.DAL\obj\Debug\net10.0\HealthClinicApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.DAL\obj\Debug\net10.0\HealthClinicApp.DAL.AssemblyInfoInputs.cache
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.DAL\obj\Debug\net10.0\HealthClinicApp.DAL.AssemblyInfo.cs
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.DAL\obj\Debug\net10.0\HealthClinicApp.DAL.csproj.CoreCompileInputs.cache
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.DAL\obj\Debug\net10.0\HealthClinicApp.DAL.sourcelink.json
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.DAL\bin\Debug\net10.0\HealthClinicApp.DAL.deps.json
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.DAL\bin\Debug\net10.0\HealthClinicApp.DAL.dll
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.DAL\bin\Debug\net10.0\HealthClinicApp.DAL.pdb
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.DAL\bin\Debug\net10.0\HealthClinicApp.Models.dll
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.DAL\bin\Debug\net10.0\HealthClinicApp.Models.pdb
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.DAL\obj\Debug\net10.0\HealthCl.E223A3A1.Up2Date
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.DAL\obj\Debug\net10.0\HealthClinicApp.DAL.dll
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.DAL\obj\Debug\net10.0\refint\HealthClinicApp.DAL.dll
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.DAL\obj\Debug\net10.0\HealthClinicApp.DAL.pdb
+C:\v\dotnet-project\HealthClinicApp\HealthClinicApp.DAL\obj\Debug\net10.0\ref\HealthClinicApp.DAL.dll

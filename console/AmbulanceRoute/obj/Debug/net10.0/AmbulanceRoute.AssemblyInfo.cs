@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmbulanceRoute")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3d8e6f859c37038d8944ed2741b9681bc896311")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2773c430a943a752564366ba5c3e347d5a76937")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmbulanceRoute")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmbulanceRoute")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

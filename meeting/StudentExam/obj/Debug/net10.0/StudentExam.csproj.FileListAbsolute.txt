@@ -1,0 +1,15 @@
+C:\v\dotnet-project\meeting\StudentExam\bin\Debug\net10.0\StudentExam.exe
+C:\v\dotnet-project\meeting\StudentExam\bin\Debug\net10.0\StudentExam.deps.json
+C:\v\dotnet-project\meeting\StudentExam\bin\Debug\net10.0\StudentExam.runtimeconfig.json
+C:\v\dotnet-project\meeting\StudentExam\bin\Debug\net10.0\StudentExam.dll
+C:\v\dotnet-project\meeting\StudentExam\bin\Debug\net10.0\StudentExam.pdb
+C:\v\dotnet-project\meeting\StudentExam\obj\Debug\net10.0\StudentExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\dotnet-project\meeting\StudentExam\obj\Debug\net10.0\StudentExam.AssemblyInfoInputs.cache
+C:\v\dotnet-project\meeting\StudentExam\obj\Debug\net10.0\StudentExam.AssemblyInfo.cs
+C:\v\dotnet-project\meeting\StudentExam\obj\Debug\net10.0\StudentExam.csproj.CoreCompileInputs.cache
+C:\v\dotnet-project\meeting\StudentExam\obj\Debug\net10.0\StudentExam.sourcelink.json
+C:\v\dotnet-project\meeting\StudentExam\obj\Debug\net10.0\StudentExam.dll
+C:\v\dotnet-project\meeting\StudentExam\obj\Debug\net10.0\refint\StudentExam.dll
+C:\v\dotnet-project\meeting\StudentExam\obj\Debug\net10.0\StudentExam.pdb
+C:\v\dotnet-project\meeting\StudentExam\obj\Debug\net10.0\StudentExam.genruntimeconfig.cache
+C:\v\dotnet-project\meeting\StudentExam\obj\Debug\net10.0\ref\StudentExam.dll

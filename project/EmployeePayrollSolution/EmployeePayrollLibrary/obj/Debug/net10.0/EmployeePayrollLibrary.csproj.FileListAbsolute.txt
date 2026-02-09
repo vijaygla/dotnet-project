@@ -1,0 +1,13 @@
+C:\v\BridgeLabz-Training\io-programing-csharp-practice\scenario-based\EmployeePayrollSolution\EmployeePayrollLibrary\bin\Debug\net10.0\EmployeePayrollLibrary.deps.json
+C:\v\BridgeLabz-Training\io-programing-csharp-practice\scenario-based\EmployeePayrollSolution\EmployeePayrollLibrary\bin\Debug\net10.0\EmployeePayrollLibrary.dll
+C:\v\BridgeLabz-Training\io-programing-csharp-practice\scenario-based\EmployeePayrollSolution\EmployeePayrollLibrary\bin\Debug\net10.0\EmployeePayrollLibrary.pdb
+C:\v\BridgeLabz-Training\io-programing-csharp-practice\scenario-based\EmployeePayrollSolution\EmployeePayrollLibrary\obj\Debug\net10.0\EmployeePayrollLibrary.csproj.AssemblyReference.cache
+C:\v\BridgeLabz-Training\io-programing-csharp-practice\scenario-based\EmployeePayrollSolution\EmployeePayrollLibrary\obj\Debug\net10.0\EmployeePayrollLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\BridgeLabz-Training\io-programing-csharp-practice\scenario-based\EmployeePayrollSolution\EmployeePayrollLibrary\obj\Debug\net10.0\EmployeePayrollLibrary.AssemblyInfoInputs.cache
+C:\v\BridgeLabz-Training\io-programing-csharp-practice\scenario-based\EmployeePayrollSolution\EmployeePayrollLibrary\obj\Debug\net10.0\EmployeePayrollLibrary.AssemblyInfo.cs
+C:\v\BridgeLabz-Training\io-programing-csharp-practice\scenario-based\EmployeePayrollSolution\EmployeePayrollLibrary\obj\Debug\net10.0\EmployeePayrollLibrary.csproj.CoreCompileInputs.cache
+C:\v\BridgeLabz-Training\io-programing-csharp-practice\scenario-based\EmployeePayrollSolution\EmployeePayrollLibrary\obj\Debug\net10.0\EmployeePayrollLibrary.sourcelink.json
+C:\v\BridgeLabz-Training\io-programing-csharp-practice\scenario-based\EmployeePayrollSolution\EmployeePayrollLibrary\obj\Debug\net10.0\EmployeePayrollLibrary.dll
+C:\v\BridgeLabz-Training\io-programing-csharp-practice\scenario-based\EmployeePayrollSolution\EmployeePayrollLibrary\obj\Debug\net10.0\refint\EmployeePayrollLibrary.dll
+C:\v\BridgeLabz-Training\io-programing-csharp-practice\scenario-based\EmployeePayrollSolution\EmployeePayrollLibrary\obj\Debug\net10.0\EmployeePayrollLibrary.pdb
+C:\v\BridgeLabz-Training\io-programing-csharp-practice\scenario-based\EmployeePayrollSolution\EmployeePayrollLibrary\obj\Debug\net10.0\ref\EmployeePayrollLibrary.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AddressBookSonarQube.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "AddressBookSonarQube.Core": "1.0.0"
+        },
+        "runtime": {
+          "AddressBookSonarQube.ConsoleApp.dll": {}
+        }
+      },
+      "AddressBookSonarQube.Core/1.0.0": {
+        "runtime": {
+          "AddressBookSonarQube.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AddressBookSonarQube.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AddressBookSonarQube.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

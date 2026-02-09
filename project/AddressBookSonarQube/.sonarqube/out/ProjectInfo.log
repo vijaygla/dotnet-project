@@ -1,0 +1,26 @@
+Product projects
+---------------------------------------
+C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Core\AddressBookSonarQube.Core.csproj
+C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.ConsoleApp\AddressBookSonarQube.ConsoleApp.csproj
+
+
+Test projects
+---------------------------------------
+C:\v\dotnet-project\AddressBookSonarQube\AddressBookSonarQube.Tests\AddressBookSonarQube.Tests.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+
