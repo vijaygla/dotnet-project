@@ -1,0 +1,15 @@
+C:\v\dotnet-project\console\CorporateTrainingSystem\bin\Debug\net10.0\CorporateTrainingSystem.exe
+C:\v\dotnet-project\console\CorporateTrainingSystem\bin\Debug\net10.0\CorporateTrainingSystem.deps.json
+C:\v\dotnet-project\console\CorporateTrainingSystem\bin\Debug\net10.0\CorporateTrainingSystem.runtimeconfig.json
+C:\v\dotnet-project\console\CorporateTrainingSystem\bin\Debug\net10.0\CorporateTrainingSystem.dll
+C:\v\dotnet-project\console\CorporateTrainingSystem\bin\Debug\net10.0\CorporateTrainingSystem.pdb
+C:\v\dotnet-project\console\CorporateTrainingSystem\obj\Debug\net10.0\CorporateTrainingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\v\dotnet-project\console\CorporateTrainingSystem\obj\Debug\net10.0\CorporateTrainingSystem.AssemblyInfoInputs.cache
+C:\v\dotnet-project\console\CorporateTrainingSystem\obj\Debug\net10.0\CorporateTrainingSystem.AssemblyInfo.cs
+C:\v\dotnet-project\console\CorporateTrainingSystem\obj\Debug\net10.0\CorporateTrainingSystem.csproj.CoreCompileInputs.cache
+C:\v\dotnet-project\console\CorporateTrainingSystem\obj\Debug\net10.0\CorporateTrainingSystem.sourcelink.json
+C:\v\dotnet-project\console\CorporateTrainingSystem\obj\Debug\net10.0\CorporateTrainingSystem.dll
+C:\v\dotnet-project\console\CorporateTrainingSystem\obj\Debug\net10.0\refint\CorporateTrainingSystem.dll
+C:\v\dotnet-project\console\CorporateTrainingSystem\obj\Debug\net10.0\CorporateTrainingSystem.pdb
+C:\v\dotnet-project\console\CorporateTrainingSystem\obj\Debug\net10.0\CorporateTrainingSystem.genruntimeconfig.cache
+C:\v\dotnet-project\console\CorporateTrainingSystem\obj\Debug\net10.0\ref\CorporateTrainingSystem.dll
