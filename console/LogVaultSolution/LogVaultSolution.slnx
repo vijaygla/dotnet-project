@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LogVaultApp/LogVaultApp.csproj" />
+  <Project Path="LogVaultTests/LogVaultTests.csproj" />
+</Solution>
